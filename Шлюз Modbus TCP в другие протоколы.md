@@ -44,7 +44,7 @@
 
 - Взлёт ТСРВ-024М
 
-- Меркурий 230
+- [Меркурий 230](https://github.com/Andry-Smirnov/Wiki/blob/main/Меркурий%20230.md)
 
 - [СПСеть](http://192.168.0.230:3000/SKB-PSIS/SCADA-EISA-5/wiki/СПСеть)
 
